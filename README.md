@@ -5,6 +5,7 @@ I am a researcher, musician and engineer currently pursuing a PhD in Music Techn
 I do a lot of programming in Python, JavaScript and Swift. Some of my best work has been pinned to this page!
 
 You can find me at: 
-* http://twitter.com/ashvala
 * http://ashva.la
+* http://twitter.com/ashvala
+
 
