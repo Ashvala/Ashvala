@@ -2,10 +2,13 @@
 
 I am a researcher, musician and engineer currently pursuing a PhD in Music Technology at Georgia Institute of Technology.
 
-I do a lot of programming in Python, JavaScript and Swift. Some of my best work has been pinned to this page!
+My pinned repos show off some of what I work on - Audio Quality analysis, Deep Learning problems, designing apps that explore sound synthesis and music perfomance. 
 
 You can find me at: 
 * http://ashva.la
 * http://twitter.com/ashvala
+
+I'm also in a live-coding band with my good friend [ijc8](github.com/ijc8) called [Merge Conflict](mergeconflict.live). Check us out at a show soon!
+
 
 
