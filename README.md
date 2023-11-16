@@ -8,7 +8,7 @@ You can find me at:
 * http://ashva.la
 * http://twitter.com/ashvala
 
-I'm also in a live-coding band with my good friend [ijc8](github.com/ijc8) called [Merge Conflict](mergeconflict.live). Check us out at a show soon!
+I'm also in a live-coding band with my good friend [ijc8](https://github.com/ijc8) called [Merge Conflict](https://mergeconflict.live). Check us out at a show soon!
 
 
 
