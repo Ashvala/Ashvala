@@ -1,6 +1,6 @@
 ### Hello, I am Ashvala Vinay! 
 
-I am a researcher, musician and engineer currently pursuing a PhD in Music Technology at Georgia Institute of Technology.
+I am a researcher, musician and engineer with a PhD in Music Technology at Georgia Institute of Technology.
 
 My pinned repos show off some of what I work on - Audio Quality analysis, Deep Learning problems, designing apps that explore sound synthesis and music perfomance. 
 
